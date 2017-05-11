@@ -1,0 +1,8 @@
+{
+    "esversion": 6,
+    "undef": true,
+    "unused": false,
+    "jquery": true,
+    "devel": true,
+    "debug": false
+}
